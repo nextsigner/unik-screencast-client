@@ -7,8 +7,22 @@
 * Crear un enlace UKL de nombre "unik-screencast-client" con el código "-git=https://github.com/nextsigner/unik-screencast-client.git"
 
 
+## Explicación con imágenes
+
+### Paso 1
 ![Paso 1](https://raw.githubusercontent.com/nextsigner/unik-screencast-client/master/cap_1.png)
 
+### Paso 2
+![Paso 2](https://raw.githubusercontent.com/nextsigner/unik-screencast-client/master/cap_2.png)
+
+### Paso 3
+![Paso 3](https://raw.githubusercontent.com/nextsigner/unik-screencast-client/master/cap_3.png)
+
+### Paso 4
+![Paso 4](https://raw.githubusercontent.com/nextsigner/unik-screencast-client/master/cap_4.png)
+
+### Paso 5
+![Paso 5](https://raw.githubusercontent.com/nextsigner/unik-screencast-client/master/cap_5.png)
 
 ## Para más información
 
