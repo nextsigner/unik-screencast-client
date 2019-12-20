@@ -24,6 +24,12 @@
 ### Paso 5
 ![Paso 5](https://raw.githubusercontent.com/nextsigner/unik-screencast-client/master/cap_5.png)
 
+## Aplicación Server para Emitir desde Android
+
+Para emitir desde Android se recomienda descargar esta aplicación.
+[ScreenCast App desde Google Play Store](https://play.google.com/store/apps/details?id=com.screencast)
+
+
 ## Para más información
 
 E-Mail: nextsigner@gmail.com
