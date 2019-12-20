@@ -5,7 +5,7 @@ ApplicationWindow{
 	id: app
 	visible: true
 	width: 960
-	height: 800
+    height: 540
 	WebEngineView{
 		id: wv
 		anchors.fill: parent
